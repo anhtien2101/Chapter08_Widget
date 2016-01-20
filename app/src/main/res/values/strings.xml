@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBoxDemo</string>
+    <string name="android">Android</string>
+    <string name="iphone">Iphone</string>
+    <string name="window">Wimdows Phone</string>
+    <string name="display">Display</string>
+</resources>
